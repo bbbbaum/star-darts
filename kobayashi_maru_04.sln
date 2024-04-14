@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kobayashi_maru_04", "kobayashi_maru_04\kobayashi_maru_04.vcxproj", "{94456CC7-63E0-4D8F-BEB5-62FB221E071B}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup", "Setup\Setup.isproj", "{E890A282-580B-4070-B279-105C892B0C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.CD_ROM|Win32.Build.0 = Release|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.Debug|Win32.Build.0 = Debug|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.DVD-5|Win32.Build.0 = Debug|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.Release|Win32.ActiveCfg = Release|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.Release|Win32.Build.0 = Release|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{94456CC7-63E0-4D8F-BEB5-62FB221E071B}.SingleImage|Win32.Build.0 = Release|Win32
+		{E890A282-580B-4070-B279-105C892B0C72}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{E890A282-580B-4070-B279-105C892B0C72}.CD_ROM|Win32.Build.0 = CD_ROM
+		{E890A282-580B-4070-B279-105C892B0C72}.Debug|Win32.ActiveCfg = DVD-5
+		{E890A282-580B-4070-B279-105C892B0C72}.Debug|Win32.Build.0 = DVD-5
+		{E890A282-580B-4070-B279-105C892B0C72}.DVD-5|Win32.ActiveCfg = DVD-5
+		{E890A282-580B-4070-B279-105C892B0C72}.DVD-5|Win32.Build.0 = DVD-5
+		{E890A282-580B-4070-B279-105C892B0C72}.Release|Win32.ActiveCfg = SingleImage
+		{E890A282-580B-4070-B279-105C892B0C72}.Release|Win32.Build.0 = SingleImage
+		{E890A282-580B-4070-B279-105C892B0C72}.SingleImage|Win32.ActiveCfg = SingleImage
+		{E890A282-580B-4070-B279-105C892B0C72}.SingleImage|Win32.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
